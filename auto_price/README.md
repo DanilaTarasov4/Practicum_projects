@@ -4,6 +4,10 @@
 Проанализированы данные: технические характеристики, комплектации и цены автомобилей. Построена модель для определения стоимости автомобиля с пробегом.
 Использованы численные методы, приближённые вычисления, оценка сложности алгоритма, градиентный спуск.
 ### Задачи проекта
-Обучить модель для определения рыночной стоимости автомобиля.
+Обучить модель для определения рыночной стоимости автомобиля. 
+Заказчику важны:
+- качество предсказания;
+- скорость предсказания;
+- время обучения.
 ### Ключевые слова
 data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, xgboost, lgbm, light gmb, Support vector machines, градиентный бустинг, нелинейная оптимизация, кластеризация, random forest, descision trees,  regression,  Reinforcement Learning, OpenCV, PIL
