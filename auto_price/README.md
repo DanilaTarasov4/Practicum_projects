@@ -15,11 +15,11 @@
 * количество фотографий автомобиля;
 * почтовый индекс владельца анкеты (пользователя);
 * дата последней активности пользователя;
-* цена (евро) - целевой признак
+* цена (евро) - целевой признак.
 ## Задачи проекта
 Исследовать данные и подготовить их для моделирования. Построить модели машинного обучения для определения рыночной стоимости автомобиля и выбрать наилучшую из них согласно приоритетам заказчика:
 - качество предсказания;
 - скорость предсказания;
 - время обучения.
 ## Ключевые слова
-data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, xgboost, lgbm, light gmb, Support vector machines, градиентный бустинг, нелинейная оптимизация, кластеризация, random forest, descision trees,  regression,  Reinforcement Learning, OpenCV, PIL
+data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, xgboost, lgbm, light gmb, Support vector machines, градиентный бустинг, нелинейная оптимизация, кластеризация, random forest, descision trees,  regression,  Reinforcement Learning, OpenCV, PIL.
